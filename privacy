@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Privacy Policy - Anticipo su Cauzione</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-900 text-white font-sans px-6 py-10">
+  <div class="max-w-3xl mx-auto">
+    <h1 class="text-3xl font-bold mb-6 text-center">Privacy Policy</h1>
+    <p class="mb-4">
+      Ai sensi del Regolamento Europeo 2016/679 (GDPR), informiamo gli utenti che i dati raccolti tramite il presente sito (modulo di contatto, documenti caricati, email) saranno trattati esclusivamente per:
+    </p>
+    <ul class="list-disc list-inside mb-4">
+      <li>Valutare la richiesta di anticipo cauzione</li>
+      <li>Contattare l’utente per comunicazioni relative alla pratica</li>
+      <li>Eventuale gestione legale, con previa delega da parte dell’utente</li>
+    </ul>
+    <p class="mb-4">
+      I dati saranno conservati in modo sicuro e non saranno condivisi con terze parti, ad eccezione di eventuali consulenti legali coinvolti nella pratica.
+    </p>
+    <p class="mb-4">
+      Il titolare del trattamento è il team promotore del servizio "Anticipo su Cauzione". È possibile richiedere la modifica o cancellazione dei dati scrivendo a <strong>[la vostra email]</strong>.
+    </p>
+    <p class="mb-4">
+      L’invio dei dati tramite modulo implica l’accettazione di questa informativa.
+    </p>
+    <div class="text-center mt-10">
+      <a href="index.html" class="text-blue-400 underline">← Torna alla pagina principale</a>
+    </div>
+  </div>
+</body>
+</html>
